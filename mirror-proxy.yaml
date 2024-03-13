@@ -3,3 +3,4 @@ payload:
   - '+.mvnrepository.com'
   - '+.spring.io'
   - '+.start.spring.io'
+  - '+.download-cdn.jetbrains.com'
