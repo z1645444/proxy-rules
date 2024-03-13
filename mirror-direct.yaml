@@ -4,3 +4,4 @@ payload:
   - '+.npmmirror.com'
   - '+.goproxy.cn'
   - '+.maven.aliyun.com'
+  - '+.download-cdn.jetbrains.com'
