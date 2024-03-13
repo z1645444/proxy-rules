@@ -1,0 +1,11 @@
+payload:
+  - '+.openai.com'
+  - '+.pay.openai.com'
+  - '+.chat.openai.com'
+  - '+.challenges.cloudflare.com'
+  - '+.platform.openai.com'
+  - '+.auth0.openai.com'
+  - '+.auth0.com'
+  - '+.stripe.com'
+  - '+.invoice.stripe.com'
+  - '+.ai.com'

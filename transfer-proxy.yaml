@@ -1,0 +1,6 @@
+payload:
+  - '+.cloudflare.com'
+  - '+.challenges.cloudflare.com'
+  - '+.sentry.io'
+  - '+.hcaptcha.com'
+  - '+.recaptcha.net'

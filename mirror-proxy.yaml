@@ -1,0 +1,5 @@
+payload:
+  - '+.registry.npmjs.org'
+  - '+.mvnrepository.com'
+  - '+.spring.io'
+  - '+.start.spring.io'

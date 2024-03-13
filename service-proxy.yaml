@@ -1,0 +1,11 @@
+payload:
+  - '+.google.com'
+  - '+.googleapis.com'
+  - '+.translate.googleapis.com'
+  - '+.gstatic.com'
+  - '+.gvt1.com'
+  - '+.gvt2.com'
+  - '+.gvt3.com'
+  - '+.msftconnecttest.com'
+  - '+.live.com'
+  - '+.sfx.ms'

@@ -1,0 +1,6 @@
+payload:
+  - '+.mirrors.ustc.edu.cn'
+  - '+.mirrors.tuna.tsinghua.edu.cn'
+  - '+.npmmirror.com'
+  - '+.goproxy.cn'
+  - '+.maven.aliyun.com'
