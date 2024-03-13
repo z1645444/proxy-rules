@@ -6,3 +6,4 @@ payload:
   - '+.maven.aliyun.com'
   - '+.download-cdn.jetbrains.com'
   - '+.cdn.jsdelivr.net'
+  - '+.jsdelivr.net'
