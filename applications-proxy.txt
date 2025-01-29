@@ -1,3 +1,0 @@
-payload:
-  - PROCESS-NAME,WebStorm.exe
-  - PROCESS-NAME,WebStorm
