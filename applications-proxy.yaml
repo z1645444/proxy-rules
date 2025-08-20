@@ -3,3 +3,4 @@ payload:
   - PROCESS-NAME,WebStorm
   - PROCESS-NAME,WebStorm.exe
   - PROCESS-NAME,WebStorm
+  - PROCESS-NAME,com.apple.Music
