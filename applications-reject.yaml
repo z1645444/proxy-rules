@@ -1,3 +1,4 @@
 payload:
   - PROCESS-NAME,Adobe Photoshop
   - PROCESS-NAME,Adobe Illustrator
+  - PROCESS-NAME,rustdesk
