@@ -4,8 +4,3 @@ payload:
   - PROCESS-NAME,WebStorm.exe
   - PROCESS-NAME,WebStorm
   - PROCESS-NAME,com.apple.Music
-  - PROCESS-NAME,openvpn
-  - PROCESS-NAME,ovpnagent
-  - PROCESS-PATH-REGEX,.*OpenVPN Connect.*
-  - PROCESS-NAME,Viscosity
-  - PROCESS-NAME,com.sparklabs.ViscosityHelper

@@ -1,2 +1,7 @@
 payload:
   - PROCESS-NAME,rustdesk
+  - PROCESS-NAME,openvpn
+  - PROCESS-NAME,ovpnagent
+  - PROCESS-PATH-REGEX,.*OpenVPN Connect.*
+  - PROCESS-NAME,Viscosity
+  - PROCESS-NAME,com.sparklabs.ViscosityHelper
